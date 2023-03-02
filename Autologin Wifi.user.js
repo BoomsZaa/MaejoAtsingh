@@ -6,6 +6,8 @@
 // @author       You
 // @match        http://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @updateURL    https://github.com/BoomsZaa/MaejoAtsingh/raw/main/Autologin%20Wifi.user.js
+// @downloadURL  https://github.com/BoomsZaa/MaejoAtsingh/raw/main/Autologin%20Wifi.user.js
 // @grant        none
 // ==/UserScript==
 
