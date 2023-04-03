@@ -15,7 +15,7 @@
     'use strict';
 
     // Your code here...
-    document.getElementById("username").value = "AS7595"
-    document.getElementById("password").value = "2503"
+    document.getElementById("username").value = "AS6218"
+    document.getElementById("password").value = "4669"
     document.getElementsByClassName("login-form").login.onsubmit();
 })();
